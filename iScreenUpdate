@@ -1,9 +1,10 @@
 {
   "showDialog": true,
   "appVersionCode": 1,
-  "messageText": "Oops! ⏰ This app has expired. Please update to the latest version.",
+  "messageText": "Your 1-month iScreen subscription has expired.  
+Please stay joined to our channel and update from there for a new subscription.",
   "updateButtonText": "Update",
-  "updateButtonLink": "https://google.com",
+  "updateButtonLink": "https://t.me/riduanmods",
   "updateButtonGradientStartColor": "#1E88E5",
   "updateButtonGradientEndColor": "#64B5F6",
   "cancelButtonText": "Cancel",
