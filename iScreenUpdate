@@ -1,17 +1,20 @@
 {
-  "showDialog": true,
-  "appVersionCode": 1,
-  "messageText": "Your 1-month iScreen subscription has expired.  
-Please stay joined to our channel and update from there for a new subscription.",
-  "updateButtonText": "Update",
-  "updateButtonLink": "https://t.me/riduanmods",
-  "updateButtonGradientStartColor": "#1E88E5",
-  "updateButtonGradientEndColor": "#64B5F6",
-  "cancelButtonText": "Cancel",
-  "cancelClosesApp": true,
-  "cancelButtonGradientStartColor": "#1E88E5",
-  "cancelButtonGradientEndColor": "#64B5F6",
-  "textGradientStartColor": "#1E88E5",
-  "textGradientEndColor": "#64B5F6",
-  "dialogBackgroundColor": "#FFFFFF"
+  "version_code": 23,
+  "title_update": "Update Available",
+  "title_made_by": "iScreen",
+  "title_color": "#FF0000",
+  "description": [
+    "Your 1-month iScreen subscription has expired.  
+Please stay joined to our channel and update from there for a new subscription."
+  ],
+  "notes": [
+    "Latest performance improvements",
+    "Security enhancements overview",
+    "New UI design guide",
+    "Update FAQs and support"
+  ],
+  "telegram_link": "https://t.me/ChannelLinkBox",
+  "update_link": "https://t.me/riduanmods",
+  "dialog_exit_on_false": true,
+  "show_update": true 
 }
